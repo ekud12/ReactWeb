@@ -1,0 +1,13 @@
+.wrapper {
+  display: grid;
+  width: 100%;
+}
+
+.box {
+  background-color: #444;
+  color: #fff;
+  border-color: rgb(255, 255, 255);
+  border-width: 5px solid;
+  padding: 20px;
+  font-size: 150%;
+}
